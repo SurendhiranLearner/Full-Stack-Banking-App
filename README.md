@@ -60,7 +60,8 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/banking-app.git
+git clone https://surendhiranlearner.github.io/Full-Stack-Banking-App/
+
 cd banking-app
 Configure MySQL Database
 
